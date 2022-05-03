@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.title{
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(122, 215, 241, 0.77);
+}
+
+.second{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
